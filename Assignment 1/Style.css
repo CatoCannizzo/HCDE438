@@ -1,0 +1,45 @@
+.body{
+    width: 100%;
+    height: 100%;
+}
+.Box{
+  display: flex;
+}
+
+.bHead{
+    width:100%;
+    padding-top:10%;
+    background: grey;
+    position: relative;
+}
+.bSpacer{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    justify-content:space-between;
+    align-items:center;
+}
+.bSquare{
+    background: white;
+    width: 7.5%;
+    padding-top: 7.5%;
+    margin: 5%;
+}
+.bBody{
+    width: 75%;
+    padding-top: 75%; 
+    margin: 12.5%;
+    background: orange;
+    position: absolute;
+}
+.spacer2{
+    justify-content: center;
+}
+.square2{
+    width: 13%;
+    padding-top: 13%;
+}
