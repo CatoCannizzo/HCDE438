@@ -1,8 +1,8 @@
-.image{
-    background: url();
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 15rem;
-    width: 15rem;
+.image {
+  background: url();
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 15rem;
+  width: 15rem;
 }
