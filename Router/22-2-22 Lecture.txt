@@ -1,0 +1,15 @@
+React is a single page App framework (SPA)
+   After you fetch all the html all that gets sent back and forth are jsons
+   React just loads and unloads components
+    This helps with spotty network connections 
+   But we want URL to change, and back button to work - this is react router
+
+React Router
+   This allows you to create routes that correspond to different components
+   Even though this is still a single page app
+
+ Set up your own Database
+   Create messages => Project settings => ?Create webproject? => 
+   Firestore Database => Get Config => 
+   SDK config hit config then copy =>
+   paste into DB firebase config
